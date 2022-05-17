@@ -1,0 +1,134 @@
+[01-Apr-2021 13:17:12 UTC] PHP Warning:  Error while sending QUERY packet. PID=5412 in C:\Users\Katarzyna\Local Sites\wordville\app\public\wp-includes\wp-db.php on line 2056
+[01-Apr-2021 13:17:12 UTC] PHP Warning:  Error while sending QUERY packet. PID=7536 in C:\Users\Katarzyna\Local Sites\wordville\app\public\wp-includes\wp-db.php on line 2056
+[01-Apr-2021 13:17:12 UTC] PHP Warning:  Error while sending QUERY packet. PID=16560 in C:\Users\Katarzyna\Local Sites\wordville\app\public\wp-includes\wp-db.php on line 2056
+[01-Apr-2021 13:17:12 UTC] PHP Warning:  Error while sending QUERY packet. PID=13904 in C:\Users\Katarzyna\Local Sites\wordville\app\public\wp-includes\wp-db.php on line 2056
+[01-Apr-2021 13:17:12 UTC] PHP Warning:  Error while sending QUERY packet. PID=8700 in C:\Users\Katarzyna\Local Sites\wordville\app\public\wp-includes\wp-db.php on line 2056
+[01-Apr-2021 13:17:12 UTC] PHP Stack trace:
+[01-Apr-2021 13:17:12 UTC] PHP Stack trace:
+[01-Apr-2021 13:17:12 UTC] PHP Stack trace:
+[01-Apr-2021 13:17:12 UTC] PHP Stack trace:
+[01-Apr-2021 13:17:12 UTC] PHP Stack trace:
+[01-Apr-2021 13:17:12 UTC] PHP   1. {main}() C:\Users\Katarzyna\AppData\Local\Programs\Local\resources\extraResources\bin\wp-cli\wp-cli.phar:0
+[01-Apr-2021 13:17:12 UTC] PHP   1. {main}() C:\Users\Katarzyna\AppData\Local\Programs\Local\resources\extraResources\bin\wp-cli\wp-cli.phar:0
+[01-Apr-2021 13:17:12 UTC] PHP   1. {main}() C:\Users\Katarzyna\AppData\Local\Programs\Local\resources\extraResources\bin\wp-cli\wp-cli.phar:0
+[01-Apr-2021 13:17:12 UTC] PHP   1. {main}() C:\Users\Katarzyna\AppData\Local\Programs\Local\resources\extraResources\bin\wp-cli\wp-cli.phar:0
+[01-Apr-2021 13:17:12 UTC] PHP   1. {main}() C:\Users\Katarzyna\AppData\Local\Programs\Local\resources\extraResources\bin\wp-cli\wp-cli.phar:0
+[01-Apr-2021 13:17:12 UTC] PHP   2. include() C:\Users\Katarzyna\AppData\Local\Programs\Local\resources\extraResources\bin\wp-cli\wp-cli.phar:4
+[01-Apr-2021 13:17:12 UTC] PHP   2. include() C:\Users\Katarzyna\AppData\Local\Programs\Local\resources\extraResources\bin\wp-cli\wp-cli.phar:4
+[01-Apr-2021 13:17:12 UTC] PHP   2. include() C:\Users\Katarzyna\AppData\Local\Programs\Local\resources\extraResources\bin\wp-cli\wp-cli.phar:4
+[01-Apr-2021 13:17:12 UTC] PHP   2. include() C:\Users\Katarzyna\AppData\Local\Programs\Local\resources\extraResources\bin\wp-cli\wp-cli.phar:4
+[01-Apr-2021 13:17:12 UTC] PHP   2. include() C:\Users\Katarzyna\AppData\Local\Programs\Local\resources\extraResources\bin\wp-cli\wp-cli.phar:4
+[01-Apr-2021 13:17:12 UTC] PHP   3. include() phar://C:/Users/Katarzyna/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[01-Apr-2021 13:17:12 UTC] PHP   3. include() phar://C:/Users/Katarzyna/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[01-Apr-2021 13:17:12 UTC] PHP   3. include() phar://C:/Users/Katarzyna/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[01-Apr-2021 13:17:12 UTC] PHP   3. include() phar://C:/Users/Katarzyna/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[01-Apr-2021 13:17:12 UTC] PHP   3. include() phar://C:/Users/Katarzyna/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[01-Apr-2021 13:17:12 UTC] PHP   4. WP_CLI\bootstrap() phar://C:/Users/Katarzyna/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[01-Apr-2021 13:17:12 UTC] PHP   4. WP_CLI\bootstrap() phar://C:/Users/Katarzyna/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[01-Apr-2021 13:17:12 UTC] PHP   4. WP_CLI\bootstrap() phar://C:/Users/Katarzyna/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[01-Apr-2021 13:17:12 UTC] PHP   4. WP_CLI\bootstrap() phar://C:/Users/Katarzyna/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[01-Apr-2021 13:17:12 UTC] PHP   4. WP_CLI\bootstrap() phar://C:/Users/Katarzyna/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[01-Apr-2021 13:17:12 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar://C:/Users/Katarzyna/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[01-Apr-2021 13:17:12 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar://C:/Users/Katarzyna/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[01-Apr-2021 13:17:12 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar://C:/Users/Katarzyna/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[01-Apr-2021 13:17:13 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar://C:/Users/Katarzyna/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[01-Apr-2021 13:17:13 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar://C:/Users/Katarzyna/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[01-Apr-2021 13:17:13 UTC] PHP   6. WP_CLI\Runner->start() phar://C:/Users/Katarzyna/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[01-Apr-2021 13:17:13 UTC] PHP   6. WP_CLI\Runner->start() phar://C:/Users/Katarzyna/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[01-Apr-2021 13:17:13 UTC] PHP   6. WP_CLI\Runner->start() phar://C:/Users/Katarzyna/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[01-Apr-2021 13:17:13 UTC] PHP   6. WP_CLI\Runner->start() phar://C:/Users/Katarzyna/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[01-Apr-2021 13:17:13 UTC] PHP   6. WP_CLI\Runner->start() phar://C:/Users/Katarzyna/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[01-Apr-2021 13:17:13 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar://C:/Users/Katarzyna/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[01-Apr-2021 13:17:13 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar://C:/Users/Katarzyna/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[01-Apr-2021 13:17:13 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar://C:/Users/Katarzyna/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[01-Apr-2021 13:17:13 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar://C:/Users/Katarzyna/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[01-Apr-2021 13:17:13 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar://C:/Users/Katarzyna/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[01-Apr-2021 13:17:13 UTC] PHP   8. require() phar://C:/Users/Katarzyna/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[01-Apr-2021 13:17:13 UTC] PHP   8. require() phar://C:/Users/Katarzyna/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[01-Apr-2021 13:17:13 UTC] PHP   8. require() phar://C:/Users/Katarzyna/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[01-Apr-2021 13:17:13 UTC] PHP   8. require() phar://C:/Users/Katarzyna/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[01-Apr-2021 13:17:13 UTC] PHP   8. require() phar://C:/Users/Katarzyna/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[01-Apr-2021 13:17:13 UTC] PHP   9. wp_plugin_directory_constants() C:\Users\Katarzyna\Local Sites\wordville\app\public\wp-settings.php:316
+[01-Apr-2021 13:17:13 UTC] PHP   9. wp_plugin_directory_constants() C:\Users\Katarzyna\Local Sites\wordville\app\public\wp-settings.php:316
+[01-Apr-2021 13:17:13 UTC] PHP   9. wp_plugin_directory_constants() C:\Users\Katarzyna\Local Sites\wordville\app\public\wp-settings.php:316
+[01-Apr-2021 13:17:13 UTC] PHP   9. wp_plugin_directory_constants() C:\Users\Katarzyna\Local Sites\wordville\app\public\wp-settings.php:316
+[01-Apr-2021 13:17:13 UTC] PHP   9. wp_plugin_directory_constants() C:\Users\Katarzyna\Local Sites\wordville\app\public\wp-settings.php:316
+[01-Apr-2021 13:17:13 UTC] PHP  10. get_option() C:\Users\Katarzyna\Local Sites\wordville\app\public\wp-includes\default-constants.php:156
+[01-Apr-2021 13:17:13 UTC] PHP  10. get_option() C:\Users\Katarzyna\Local Sites\wordville\app\public\wp-includes\default-constants.php:156
+[01-Apr-2021 13:17:13 UTC] PHP  10. get_option() C:\Users\Katarzyna\Local Sites\wordville\app\public\wp-includes\default-constants.php:156
+[01-Apr-2021 13:17:13 UTC] PHP  10. get_option() C:\Users\Katarzyna\Local Sites\wordville\app\public\wp-includes\default-constants.php:156
+[01-Apr-2021 13:17:13 UTC] PHP  10. get_option() C:\Users\Katarzyna\Local Sites\wordville\app\public\wp-includes\default-constants.php:156
+[01-Apr-2021 13:17:13 UTC] PHP  11. wpdb->get_row() C:\Users\Katarzyna\Local Sites\wordville\app\public\wp-includes\option.php:146
+[01-Apr-2021 13:17:13 UTC] PHP  11. wpdb->get_row() C:\Users\Katarzyna\Local Sites\wordville\app\public\wp-includes\option.php:146
+[01-Apr-2021 13:17:13 UTC] PHP  11. wpdb->get_row() C:\Users\Katarzyna\Local Sites\wordville\app\public\wp-includes\option.php:146
+[01-Apr-2021 13:17:13 UTC] PHP  11. wpdb->get_row() C:\Users\Katarzyna\Local Sites\wordville\app\public\wp-includes\option.php:146
+[01-Apr-2021 13:17:13 UTC] PHP  11. wpdb->get_row() C:\Users\Katarzyna\Local Sites\wordville\app\public\wp-includes\option.php:146
+[01-Apr-2021 13:17:13 UTC] PHP  12. wpdb->query() C:\Users\Katarzyna\Local Sites\wordville\app\public\wp-includes\wp-db.php:2615
+[01-Apr-2021 13:17:13 UTC] PHP Warning:  Error while sending QUERY packet. PID=14140 in C:\Users\Katarzyna\Local Sites\wordville\app\public\wp-includes\wp-db.php on line 2056
+[01-Apr-2021 13:17:13 UTC] PHP Warning:  Error while sending QUERY packet. PID=12416 in C:\Users\Katarzyna\Local Sites\wordville\app\public\wp-includes\wp-db.php on line 2056
+[01-Apr-2021 13:17:13 UTC] PHP Warning:  Error while sending QUERY packet. PID=15552 in C:\Users\Katarzyna\Local Sites\wordville\app\public\wp-includes\wp-db.php on line 2056
+[01-Apr-2021 13:17:13 UTC] PHP  12. wpdb->query() C:\Users\Katarzyna\Local Sites\wordville\app\public\wp-includes\wp-db.php:2615
+[01-Apr-2021 13:17:13 UTC] PHP  12. wpdb->query() C:\Users\Katarzyna\Local Sites\wordville\app\public\wp-includes\wp-db.php:2615
+[01-Apr-2021 13:17:13 UTC] PHP  12. wpdb->query() C:\Users\Katarzyna\Local Sites\wordville\app\public\wp-includes\wp-db.php:2615
+[01-Apr-2021 13:17:13 UTC] PHP  12. wpdb->query() C:\Users\Katarzyna\Local Sites\wordville\app\public\wp-includes\wp-db.php:2615
+[01-Apr-2021 13:17:13 UTC] PHP  13. wpdb->_do_query() C:\Users\Katarzyna\Local Sites\wordville\app\public\wp-includes\wp-db.php:1945
+[01-Apr-2021 13:17:13 UTC] PHP Stack trace:
+[01-Apr-2021 13:17:13 UTC] PHP Stack trace:
+[01-Apr-2021 13:17:13 UTC] PHP Stack trace:
+[01-Apr-2021 13:17:13 UTC] PHP  13. wpdb->_do_query() C:\Users\Katarzyna\Local Sites\wordville\app\public\wp-includes\wp-db.php:1945
+[01-Apr-2021 13:17:13 UTC] PHP  13. wpdb->_do_query() C:\Users\Katarzyna\Local Sites\wordville\app\public\wp-includes\wp-db.php:1945
+[01-Apr-2021 13:17:13 UTC] PHP  13. wpdb->_do_query() C:\Users\Katarzyna\Local Sites\wordville\app\public\wp-includes\wp-db.php:1945
+[01-Apr-2021 13:17:13 UTC] PHP  13. wpdb->_do_query() C:\Users\Katarzyna\Local Sites\wordville\app\public\wp-includes\wp-db.php:1945
+[01-Apr-2021 13:17:13 UTC] PHP  14. mysqli_query() C:\Users\Katarzyna\Local Sites\wordville\app\public\wp-includes\wp-db.php:2056
+[01-Apr-2021 13:17:13 UTC] PHP   1. {main}() C:\Users\Katarzyna\AppData\Local\Programs\Local\resources\extraResources\bin\wp-cli\wp-cli.phar:0
+[01-Apr-2021 13:17:13 UTC] PHP   1. {main}() C:\Users\Katarzyna\AppData\Local\Programs\Local\resources\extraResources\bin\wp-cli\wp-cli.phar:0
+[01-Apr-2021 13:17:13 UTC] PHP   1. {main}() C:\Users\Katarzyna\AppData\Local\Programs\Local\resources\extraResources\bin\wp-cli\wp-cli.phar:0
+[01-Apr-2021 13:17:13 UTC] PHP  14. mysqli_query() C:\Users\Katarzyna\Local Sites\wordville\app\public\wp-includes\wp-db.php:2056
+[01-Apr-2021 13:17:13 UTC] PHP  14. mysqli_query() C:\Users\Katarzyna\Local Sites\wordville\app\public\wp-includes\wp-db.php:2056
+[01-Apr-2021 13:17:13 UTC] PHP  14. mysqli_query() C:\Users\Katarzyna\Local Sites\wordville\app\public\wp-includes\wp-db.php:2056
+[01-Apr-2021 13:17:13 UTC] PHP  14. mysqli_query() C:\Users\Katarzyna\Local Sites\wordville\app\public\wp-includes\wp-db.php:2056
+[01-Apr-2021 13:17:13 UTC] PHP   2. include() C:\Users\Katarzyna\AppData\Local\Programs\Local\resources\extraResources\bin\wp-cli\wp-cli.phar:4
+[01-Apr-2021 13:17:13 UTC] PHP   2. include() C:\Users\Katarzyna\AppData\Local\Programs\Local\resources\extraResources\bin\wp-cli\wp-cli.phar:4
+[01-Apr-2021 13:17:13 UTC] PHP   2. include() C:\Users\Katarzyna\AppData\Local\Programs\Local\resources\extraResources\bin\wp-cli\wp-cli.phar:4
+[01-Apr-2021 13:17:13 UTC] PHP   3. include() phar://C:/Users/Katarzyna/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[01-Apr-2021 13:17:13 UTC] PHP   3. include() phar://C:/Users/Katarzyna/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[01-Apr-2021 13:17:13 UTC] PHP   3. include() phar://C:/Users/Katarzyna/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[01-Apr-2021 13:17:13 UTC] PHP   4. WP_CLI\bootstrap() phar://C:/Users/Katarzyna/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[01-Apr-2021 13:17:13 UTC] PHP   4. WP_CLI\bootstrap() phar://C:/Users/Katarzyna/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[01-Apr-2021 13:17:13 UTC] PHP   4. WP_CLI\bootstrap() phar://C:/Users/Katarzyna/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[01-Apr-2021 13:17:13 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar://C:/Users/Katarzyna/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[01-Apr-2021 13:17:13 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar://C:/Users/Katarzyna/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[01-Apr-2021 13:17:13 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar://C:/Users/Katarzyna/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[01-Apr-2021 13:17:13 UTC] PHP   6. WP_CLI\Runner->start() phar://C:/Users/Katarzyna/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[01-Apr-2021 13:17:13 UTC] PHP   6. WP_CLI\Runner->start() phar://C:/Users/Katarzyna/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[01-Apr-2021 13:17:13 UTC] PHP   6. WP_CLI\Runner->start() phar://C:/Users/Katarzyna/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[01-Apr-2021 13:17:13 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar://C:/Users/Katarzyna/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[01-Apr-2021 13:17:13 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar://C:/Users/Katarzyna/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[01-Apr-2021 13:17:13 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar://C:/Users/Katarzyna/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[01-Apr-2021 13:17:13 UTC] PHP   8. require() phar://C:/Users/Katarzyna/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[01-Apr-2021 13:17:13 UTC] PHP   8. require() phar://C:/Users/Katarzyna/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[01-Apr-2021 13:17:13 UTC] PHP   8. require() phar://C:/Users/Katarzyna/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[01-Apr-2021 13:17:13 UTC] PHP   9. load_default_textdomain() C:\Users\Katarzyna\Local Sites\wordville\app\public\wp-settings.php:498
+[01-Apr-2021 13:17:13 UTC] PHP   9. load_default_textdomain() C:\Users\Katarzyna\Local Sites\wordville\app\public\wp-settings.php:498
+[01-Apr-2021 13:17:13 UTC] PHP   9. load_default_textdomain() C:\Users\Katarzyna\Local Sites\wordville\app\public\wp-settings.php:498
+[01-Apr-2021 13:17:13 UTC] PHP  10. determine_locale() C:\Users\Katarzyna\Local Sites\wordville\app\public\wp-includes\l10n.php:828
+[01-Apr-2021 13:17:13 UTC] PHP  10. determine_locale() C:\Users\Katarzyna\Local Sites\wordville\app\public\wp-includes\l10n.php:828
+[01-Apr-2021 13:17:13 UTC] PHP  10. determine_locale() C:\Users\Katarzyna\Local Sites\wordville\app\public\wp-includes\l10n.php:828
+[01-Apr-2021 13:17:13 UTC] PHP  11. get_locale() C:\Users\Katarzyna\Local Sites\wordville\app\public\wp-includes\l10n.php:137
+[01-Apr-2021 13:17:13 UTC] PHP  11. get_locale() C:\Users\Katarzyna\Local Sites\wordville\app\public\wp-includes\l10n.php:137
+[01-Apr-2021 13:17:13 UTC] PHP  11. get_locale() C:\Users\Katarzyna\Local Sites\wordville\app\public\wp-includes\l10n.php:137
+[01-Apr-2021 13:17:13 UTC] PHP  12. get_option() C:\Users\Katarzyna\Local Sites\wordville\app\public\wp-includes\l10n.php:63
+[01-Apr-2021 13:17:13 UTC] PHP  12. get_option() C:\Users\Katarzyna\Local Sites\wordville\app\public\wp-includes\l10n.php:63
+[01-Apr-2021 13:17:13 UTC] PHP  12. get_option() C:\Users\Katarzyna\Local Sites\wordville\app\public\wp-includes\l10n.php:63
+[01-Apr-2021 13:17:13 UTC] PHP  13. wpdb->get_row() C:\Users\Katarzyna\Local Sites\wordville\app\public\wp-includes\option.php:125
+[01-Apr-2021 13:17:13 UTC] PHP  13. wpdb->get_row() C:\Users\Katarzyna\Local Sites\wordville\app\public\wp-includes\option.php:125
+[01-Apr-2021 13:17:13 UTC] PHP  13. wpdb->get_row() C:\Users\Katarzyna\Local Sites\wordville\app\public\wp-includes\option.php:125
+[01-Apr-2021 13:17:13 UTC] PHP  14. wpdb->query() C:\Users\Katarzyna\Local Sites\wordville\app\public\wp-includes\wp-db.php:2615
+[01-Apr-2021 13:17:13 UTC] PHP  14. wpdb->query() C:\Users\Katarzyna\Local Sites\wordville\app\public\wp-includes\wp-db.php:2615
+[01-Apr-2021 13:17:13 UTC] PHP  14. wpdb->query() C:\Users\Katarzyna\Local Sites\wordville\app\public\wp-includes\wp-db.php:2615
+[01-Apr-2021 13:17:13 UTC] PHP  15. wpdb->_do_query() C:\Users\Katarzyna\Local Sites\wordville\app\public\wp-includes\wp-db.php:1945
+[01-Apr-2021 13:17:13 UTC] PHP  15. wpdb->_do_query() C:\Users\Katarzyna\Local Sites\wordville\app\public\wp-includes\wp-db.php:1945
+[01-Apr-2021 13:17:13 UTC] PHP  15. wpdb->_do_query() C:\Users\Katarzyna\Local Sites\wordville\app\public\wp-includes\wp-db.php:1945
+[01-Apr-2021 13:17:13 UTC] PHP  16. mysqli_query() C:\Users\Katarzyna\Local Sites\wordville\app\public\wp-includes\wp-db.php:2056
+[01-Apr-2021 13:17:13 UTC] PHP  16. mysqli_query() C:\Users\Katarzyna\Local Sites\wordville\app\public\wp-includes\wp-db.php:2056
+[01-Apr-2021 13:17:13 UTC] PHP  16. mysqli_query() C:\Users\Katarzyna\Local Sites\wordville\app\public\wp-includes\wp-db.php:2056

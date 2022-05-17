@@ -1,0 +1,2 @@
+2020/11/26 08:01:42 [alert] 11676#13656: OpenEvent("ngx_master_3024") failed (2: The system cannot find the file specified)
+2020/12/12 17:39:13 [error] 13380#16148: *2224 directory index of "C:/Users/Katarzyna/Local Sites/wordville/app/public/wp-content/cache/" is forbidden, client: 127.0.0.1, server: , request: "GET /wp-content/cache/ HTTP/1.0", host: "wordville.local", referrer: "http://wordville.local/wp-content/cache/"
